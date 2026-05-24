@@ -1,4 +1,4 @@
-# 🧬 MutantSpike, AlteredBinding  
+# 🧬 Mutant Spike, Altered Binding  
 ### 3D Structural Modeling and Interaction Analysis of SARS-CoV-2 Spike RBD Variants with ACE2 Using SWISS-MODEL
 
 ## 📌 Overview
