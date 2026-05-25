@@ -43,16 +43,27 @@ Analisis yang dilakukan meliputi:
 ---
 
 ## 🔬 Workflow
-1. Protein sequence retrieval from RCSB PDB
-2. In-silico mutation generation
-3. 3D structure modeling using SWISS-MODEL
-4. Structural validation using:
-   - QMEANDisCo
-   - GMQE
-   - Ramachandran Plot
-5. RMSD comparison with PyMOL
-6. Binding interaction analysis using Discovery Studio
 
+1. Retrieval of SARS-CoV-2 RBD structure from the RCSB Protein Data Bank (PDB ID: 6M0J)
+
+2. Preparation and separation of ACE2 receptor and RBD complex structure
+
+3. In-silico mutation generation for:
+   - N501Y
+   - Q493A + N501A + K417A
+
+4. Homology modeling and structure optimization using SWISS-MODEL
+
+5. Structural quality evaluation using:
+   - GMQE
+   - QMEANDisCo
+   - Ramachandran Plot analysis
+
+6. Structural comparison through RMSD analysis using PyMOL
+
+7. Binding interaction analysis between ACE2 and RBD variants using Discovery Studio Visualizer
+
+8. Comparative interpretation of structural stability and interaction profiles among all variants
 ---
 
 ## Results
