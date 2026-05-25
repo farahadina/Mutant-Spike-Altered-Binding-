@@ -1,19 +1,19 @@
-# 🧬 ⁠Pemodelan Struktur 3D dan Analisis Potensi Interaksi Variasi Protein Spike RBD SARS-CoV-2 terhadap ACE2 dengan SWISS-MODEL
+# 🧬 3D Structural Modeling and Analysis of the Interaction Potential of SARS-CoV-2 Spike RBD Variants with ACE2 Using SWISS-MODEL
 
-## 📌 Gambaran Umum
-Repositori ini berisi proyek bioinformatika yang berfokus pada pemodelan dan analisis interaksi antara varian spike Receptor Binding Domain (RBD) SARS-CoV-2 dan Receptor permukaan sel manusia Angiotensin-Converting-Enzymes 2 (ACE2) sebagai protein pintu masuk SARS-CoV-2 yang umumnya ditemukan di paru-paru, jantung dan ginjal, menggunakan pendekatan komputasional.
+## Overview
+This repository contains bionformatics project focused on modeling and analyzing the interaction between SARS-CoV-2 spike Receptor Binding Domain (RBD) variants and the human cell surafce Receptor Angiostensin-Converting-Enzymes 2 (ACE2) as the SARS-CoV-2 entry protein commonly found in the lungs, heart, and kidneys, using computational approaches. 
 
 Proyek ini membandingkan antara: 
 - Wild Type RBD (6M0J)
 - Mutant N501Y RBD
 - Triple Mutant Q493A/N501A/K417A RBD
 
-Analyses performed include:
-- 3D structure modeling
-- Structural validation
-- RMSD analysis
-- Binding site analysis
-- Hydrogen bond interaction analysis
+Analisis yang dilakukan meliputi:
+- Pemodelan struktur 3D 
+- Validasi struktur
+- Analisis RMSD 
+- Analisis binding site 
+- Analisis interaksi ikatan hidrogen 
 
 ---
 
@@ -25,11 +25,11 @@ Analyses performed include:
 
 ---
 
-## 🎯 Objectives
-- Model 3D structures of SARS-CoV-2 Spike RBD variants
-- Compare structural conformational changes
-- Analyze ACE2 binding interactions
-- Evaluate protein stability and interaction potential
+## Tujuan 
+- Membuat dan memodelkan struktur 3D varian RBD spike SARS-CoV-2
+- Memvalidasi struktur 3 varian RBD spike SARS-CoV-2
+- Membandingkan perubahan struktur protein spike RBD spike SARS-CoV-2
+- Menganalisis binding site ACES2 dan RMSD
 
 ---
 
@@ -55,7 +55,7 @@ Analyses performed include:
 
 ---
 
-## 📊 Key Results
+## Results
 
 Table 1. SARS-CoV-2 RBD Structure Model Validation Results
 | Model | GMQE | QMEANDisCo
