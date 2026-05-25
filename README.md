@@ -90,11 +90,11 @@ All hydrogen bond distances remained within stable interaction ranges (<3.5 Å),
 ---
 
 ## 🧠 Main Findings
-Structural analysis showed that mutations in the SARS-CoV-2 RBD region influenced the local conformation of residues involved in ACE2 binding. Differences in residue arrangement and interaction patterns were observed among the wild type, N501Y mutant, and triple mutant structures.
-The wild type structure demonstrated a more compact and stable conformation, with most residues distributed within the favored region of the Ramachandran plot. Hydrogen bond interactions between RBD and ACE2 were also observed consistently, indicating stable binding behavior.
-In the N501Y mutant, several local conformational changes were detected around the binding interface. Residue distribution slightly shifted toward the allowed region, suggesting increased flexibility in specific areas of the structure. However, the overall interaction with ACE2 remained relatively stable, and several important binding interactions were still maintained.
-Compared to the wild type and single mutant, the triple mutant (Q493A + N501A + K417A) showed greater structural deviation. The residue distribution appeared more dispersed, accompanied by changes in hydrogen bond interactions and reduced structural compactness in several regions. These findings suggest that multiple mutations may affect the stability and interaction profile of the RBD–ACE2 complex more noticeably.
-Overall, all analyzed variants retained the ability to interact with the ACE2 receptor, although each mutation produced different structural and interaction characteristics that may influence binding stability.
+- Structural analysis showed that mutations in the SARS-CoV-2 RBD region influenced the local conformation of residues involved in ACE2 binding. Differences in residue arrangement and interaction patterns were observed among the wild type, N501Y mutant, and triple mutant structures.
+- The wild type structure demonstrated a more compact and stable conformation, with most residues distributed within the favored region of the Ramachandran plot. Hydrogen bond interactions between RBD and ACE2 were also observed consistently, indicating stable binding behavior.
+- In the N501Y mutant, several local conformational changes were detected around the binding interface. Residue distribution slightly shifted toward the allowed region, suggesting increased flexibility in specific areas of the structure. However, the overall interaction with ACE2 remained relatively stable, and several important binding interactions were still maintained.
+- Compared to the wild type and single mutant, the triple mutant (Q493A + N501A + K417A) showed greater structural deviation. The residue distribution appeared more dispersed, accompanied by changes in hydrogen bond interactions and reduced structural compactness in several regions. These findings suggest that multiple mutations may affect the stability and interaction profile of the RBD–ACE2 complex more noticeably.
+- Overall, all analyzed variants retained the ability to interact with the ACE2 receptor, although each mutation produced different structural and interaction characteristics that may influence binding stability.
 
 ----
 
