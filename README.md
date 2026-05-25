@@ -83,13 +83,6 @@ All hydrogen bond distances remained within stable interaction ranges (<3.5 Å),
 ---
 
 ## 🧠 Main Findings
-- Mutations affect local conformational structures in the RBD binding interface.
-- Triple mutations produce greater structural deviation compared to single mutations.
-- All variants maintain interaction capability with ACE2 receptors.
-
----
-
-## 🧠 Main Findings
 - Structural analysis showed that mutations in the SARS-CoV-2 RBD region influenced the local conformation of residues involved in ACE2 binding. Differences in residue arrangement and interaction patterns were observed among the wild type, N501Y mutant, and triple mutant structures.
 - The wild type structure demonstrated a more compact and stable conformation, with most residues distributed within the favored region of the Ramachandran plot. Hydrogen bond interactions between RBD and ACE2 were also observed consistently, indicating stable binding behavior.
 - In the N501Y mutant, several local conformational changes were detected around the binding interface. Residue distribution slightly shifted toward the allowed region, suggesting increased flexibility in specific areas of the structure. However, the overall interaction with ACE2 remained relatively stable, and several important binding interactions were still maintained.
