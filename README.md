@@ -84,12 +84,13 @@ All hydrogen bond distances remained within stable interaction ranges (<3.5 Å),
 ---
 
 ## 🧠 Main Findings
-- Structural differences were observed between the wild type and mutant RBD structures after mutation modeling.
-- The wild type structure showed a more stable residue distribution and consistent interaction pattern with ACE2.
-- The N501Y mutant exhibited moderate conformational changes around the binding interface while maintaining several important interactions.
-- The triple mutant (Q493A + N501A + K417A) showed greater structural deviation and more noticeable changes in interaction patterns compared to the single mutant.
-- Variations in hydrogen bond interactions and residue distribution suggest that each mutation may influence the stability of the RBD–ACE2 complex differently.
-- Despite structural differences, all analyzed variants were still able to interact with the ACE2 receptor.
+
+- Structural modeling of the SARS-CoV-2 wild type, N501Y mutant, and triple mutant (Q493A/N501A/K417A) showed that all RBD variants were still capable of interacting with the ACE2 receptor.
+- Validation results based on GMQE, Global QMEANDisCo, and Ramachandran Plot analysis indicated that the generated protein models had acceptable structural quality.
+- RMSD analysis and binding interaction observations revealed conformational differences and variations in binding site characteristics among the analyzed structures.
+- Differences in hydrogen bond interactions and bond distances suggest that each mutation may influence the stability and interaction profile of the RBD–ACE2 complex differently.
+- Overall, mutations in the RBD region contributed to structural and interaction changes that may affect ACE2 binding behavior and the adaptive properties of SARS-CoV-2 variants.
+- These findings may provide useful information for further studies related to therapeutic development, inhibitor design, and vaccine evaluation against emerging SARS-CoV-2 variants.
 
 ----
 
