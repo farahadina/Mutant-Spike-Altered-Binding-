@@ -1,4 +1,4 @@
-# 🧬 3D Structural Modeling and Analysis of the Interaction Potential of SARS-CoV-2 Spike RBD Variants with ACE2 Using SWISS-MODEL
+# 3D Structural Modeling and Analysis of the Interaction Potential of SARS-CoV-2 Spike RBD Variants with ACE2 Using SWISS-MODEL
 
 ## Overview
 This repository contains bionformatics project focused on modeling and analyzing the interaction between SARS-CoV-2 spike Receptor Binding Domain (RBD) variants and the human cell surafce Receptor Angiostensin-Converting-Enzymes 2 (ACE2) as the SARS-CoV-2 entry protein commonly found in the lungs, heart, and kidneys, using computational approaches. 
@@ -34,7 +34,7 @@ The analyses performed included:
 ---
 
 ## Tools & Software
-- SWISS-MODEL, to create a 3D structure model of the spike protein
+- [SWISS-MODEL]([url](https://swissmodel.expasy.org/)), to create a 3D structure model of the spike protein
 - PyMOL, as a protein visualization tools and RMSD analysis
 - Discovery Studio Visualizer, as a hydrogen bond and bond distance analysis tool
 - MEGA X, for sequence aligntmend and comparing protein sequence
@@ -42,9 +42,9 @@ The analyses performed included:
 
 ---
 
-## 🔬 Workflow
+## Workflow
 
-1. Retrieval of SARS-CoV-2 RBD structure from Protein Data Bank (PDB ID: 6M0J)
+1. Retrieval of SARS-CoV-2 RBD structure from Protein Data Bank (PDB ID: 6M0J - Crystal structure of SARS-CoV-2 spike receptor-binding domain bound with ACE2)
 2. FASTA sequence extraction and in-silico mutation generation using MEGA X
 3. 3D structure modeling of mutant proteins using SWISS-MODEL
 4. Structural comparison and RMSD analysis using PyMOL
@@ -54,9 +54,9 @@ The analyses performed included:
    - Contact residue identification
 6. Structural validation and quality assessment using:
    - Ramachandran Plot
-   - Binding site confidence
-   - GMQE
-   - QMEANDisCo global score
+   - Binding site confidence & residue
+   - GMQE (Global Model Quality Estimate)
+   - QMEANDisCo (Qualitative Model Energy Analysis Distance Constraints) global score
 7. Comparative analysis between wild-type and mutant structures
    
 ---
@@ -83,7 +83,7 @@ All hydrogen bond distances remained within stable interaction ranges (<3.5 Å),
 
 ---
 
-## 🧠 Main Findings
+## Main Findings
 
 - Structural modeling of the SARS-CoV-2 wild type, N501Y mutant, and triple mutant (Q493A/N501A/K417A) showed that all RBD variants were still capable of interacting with the ACE2 receptor.
 - Validation results based on GMQE, Global QMEANDisCo, and Ramachandran Plot analysis indicated that the generated protein models had acceptable structural quality.
@@ -94,7 +94,7 @@ All hydrogen bond distances remained within stable interaction ranges (<3.5 Å),
 
 ----
 
-## 📂 Repository Contents
+## Repository Contents
 
 ```bash
 Kelompok 30_Poster Bioinformatics.png
