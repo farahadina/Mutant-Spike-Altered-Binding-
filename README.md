@@ -1,13 +1,12 @@
-# 🧬 Mutant Spike, Altered Binding  
-### 3D Structural Modeling and Interaction Analysis of SARS-CoV-2 Spike RBD Variants with ACE2 Using SWISS-MODEL
+# 🧬 ⁠Pemodelan Struktur 3D dan Analisis Potensi Interaksi Variasi Protein Spike RBD SARS-CoV-2 terhadap ACE2 dengan SWISS-MODEL
 
-## 📌 Overview
-This repository contains a bioinformatics project focused on modeling and analyzing the interaction between SARS-CoV-2 Spike Receptor Binding Domain (RBD) variants and the human ACE2 receptor using computational approaches.
+## 📌 Gambaran Umum
+Repositori ini berisi proyek bioinformatika yang berfokus pada pemodelan dan analisis interaksi antara varian spike Receptor Binding Domain (RBD) SARS-CoV-2 dan Receptor permukaan sel manusia Angiotensin-Converting-Enzymes 2 (ACE2) sebagai protein pintu masuk SARS-CoV-2 yang umumnya ditemukan di paru-paru, jantung dan ginjal, menggunakan pendekatan komputasional.
 
-The study compares:
-- Wild Type RBD
-- Mutant N501Y
-- Triple Mutant Q493A/N501A/K417A
+Proyek ini membandingkan antara: 
+- Wild Type RBD (6M0J)
+- Mutant N501Y RBD
+- Triple Mutant Q493A/N501A/K417A RBD
 
 Analyses performed include:
 - 3D structure modeling
