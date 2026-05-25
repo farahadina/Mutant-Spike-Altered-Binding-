@@ -3,17 +3,17 @@
 ## Overview
 This repository contains bionformatics project focused on modeling and analyzing the interaction between SARS-CoV-2 spike Receptor Binding Domain (RBD) variants and the human cell surafce Receptor Angiostensin-Converting-Enzymes 2 (ACE2) as the SARS-CoV-2 entry protein commonly found in the lungs, heart, and kidneys, using computational approaches. 
 
-Proyek ini membandingkan antara: 
+This project compares: 
 - Wild Type RBD (6M0J)
 - Mutant N501Y RBD
 - Triple Mutant Q493A/N501A/K417A RBD
 
-Analisis yang dilakukan meliputi:
-- Pemodelan struktur 3D 
-- Validasi struktur
-- Analisis RMSD 
-- Analisis binding site 
-- Analisis interaksi ikatan hidrogen 
+The analyses performed included:
+- 3D structure modeling 
+- Structure validation
+- RMSD analysis 
+- Binding site analysis
+- Hydrogen bond interaction analysis
 
 ---
 
@@ -25,20 +25,20 @@ Analisis yang dilakukan meliputi:
 
 ---
 
-## Tujuan 
-- Membuat dan memodelkan struktur 3D varian RBD spike SARS-CoV-2
-- Memvalidasi struktur 3 varian RBD spike SARS-CoV-2
-- Membandingkan perubahan struktur protein spike RBD spike SARS-CoV-2
-- Menganalisis binding site ACES2 dan RMSD
+## Objectives 
+- Create and model the 3D sturcture of SARS-CoV-2 RBD spike variants
+- Validate the structure of three SARS-CoV-2 RBD spike variants
+- Compare structural changes in the SARS-CoV-2 RBD spike protein 
+- Analyze the ACE2 binding site and RMSD
 
 ---
 
-## 🧪 Tools & Software
-- SWISS-MODEL
-- PyMOL
-- Discovery Studio Visualizer
-- MEGA X
-- RCSB Protein Data Bank
+## Tools & Software
+- SWISS-MODEL, to create a 3D structure model of the spike protein
+- PyMOL, as a protein visualization tools and RMSD analysis
+- Discovery Studio Visualizer, as a hydrogen bond and bond distance analysis tool
+- MEGA X, for sequence aligntmend and comparing protein sequence
+- RCSB Protein Data Bank, serves as a provider of FASTA Protein 6MOJ data
 
 ---
 
