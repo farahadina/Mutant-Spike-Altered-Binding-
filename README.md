@@ -17,7 +17,7 @@ Analyses performed include:
 
 ---
 
-## 🖼️ Poster Preview
+## Poster Preview
 
 <p align="center">
   <img src="Kelompok%2030_Poster%20Bioinformatics.png" width="900">
@@ -57,7 +57,17 @@ Analyses performed include:
 
 ## 📊 Key Results
 
-| Variant | RMSD (Å) |
+Table 1. SARS-CoV-2 RBD Structure Model Validation Results
+| Model | GMQE | QMEANDisCo
+|---|---|---|
+| RBD SARS-CoV-2 Wild Type | 0.76 | 0.84 ± 0.05 |
+| RBD SARS-CoV-2 Mutant N501Y | 0.77 | 0.52 ± 0.05 |
+| RBD SARS-CoV-2 Triple Mutant | 0.74 | 0.65 ± 0.05 |
+
+GMQE becomes a parameter initial model reliability based on template fit and sequence alignment, which was relatively high and stable for all three models. The values indicate all the three models had good reliability and a high fit to the template structure throughout the modeling process. The decrease in QMEANDisCo value for bothe mutant RBD models indicated that amino acid substitutions due to mutations cause local conformational changes in the protein structure.   
+
+Table 2. Hydrogen Bond Distance Value 
+| Variant RBD| RMSD (Å) |
 |---|---|
 | Wild Type | 0.312 |
 | Mutant N501Y | 0.652 |
