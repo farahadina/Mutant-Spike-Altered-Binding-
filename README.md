@@ -91,6 +91,16 @@ All hydrogen bond distances remained within stable interaction ranges (<3.5 Å),
 
 ----
 
+## 🧠 Main Findings
+- Structural differences were observed between the wild type and mutant RBD structures after mutation modeling.
+- The wild type structure showed a more stable residue distribution and consistent interaction pattern with ACE2.
+- The N501Y mutant exhibited moderate conformational changes around the binding interface while maintaining several important interactions.
+- The triple mutant (Q493A + N501A + K417A) showed greater structural deviation and more noticeable changes in interaction patterns compared to the single mutant.
+- Variations in hydrogen bond interactions and residue distribution suggest that each mutation may influence the stability of the RBD–ACE2 complex differently.
+- Despite structural differences, all analyzed variants were still able to interact with the ACE2 receptor.
+
+----
+
 ## 📂 Repository Contents
 
 ```bash
